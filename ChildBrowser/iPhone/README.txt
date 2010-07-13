@@ -1,4 +1,5 @@
-README for ChildBrowser PhoneGap plugin.
+
+
 
 The child browser allows you to display external webpages within your PhoneGap application.
 
